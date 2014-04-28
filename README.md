@@ -17,3 +17,6 @@ http://gamemechanicexplorer.com/
 
 // Forum 
 http://www.html5gamedevs.com/forum/14-phaser/
+
+// Phaser CDN
+https://rawgit.com/photonstorm/phaser/master/build/phaser.min.js
